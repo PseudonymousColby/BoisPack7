@@ -97,7 +97,7 @@
 - Artifacts
 - Building Gadgets
 - Building Wands
-- 
+- Simple Musket
 ## Multiplayer
 - FTB Teams
 - MapFrontiers
